@@ -1,0 +1,29 @@
+1. Setting koneksi database ada 2. Di folder application paling luar dan di folder admin->application. sesuaikan settingan database dengan settingan yang ada di server
+2. Setting akun gmail agar bisa digunakan untuk kirim email. cara setting akunnya bisa dilihat di link ini https://www.rumahweb.com/journal/mengaktifkan-app-password-gmail-setting-smtp/
+3. Kemudian ubah email gmail dan sandi aplikasi tadi sesuai yang sudah anda buat. File yang perlu diubah yaitu
+	1. daftar.php
+	2. lupasandi.php
+	3. pembayaran.php
+	4. member/pembayarangalangdana.php
+	5. member/tarikgalangdana.php
+	6. cpaneladministratorwebxyz/pages/penarikandanacampaign.php
+	7. cpaneladministratorwebxyz/pages/konfirmasigalangdana.php
+	8. cpaneladministratorwebxyz/pages/detailgalangdana.php
+	9. cpaneladministratorwebxyz/pages/kasir/penarikandanacampaign.php
+	10. cpaneladministratorwebxyz/pages/kasir/konfirmasigalangdana.php
+	11. cpaneladministratorwebxyz/pages/kasir/detailgalangdana.php
+4.setting nama web di web admin (menu link web) -> agar fitur share galang dana berjalan
+5. setting menu donasi (bahan makanan / nasi) jika mau mengaktifkan
+
+
+
+6. Jangan Remove credit link template (Colorlib). Jika ingin menghapus link credit template silahkan beli template melalui link ini : https://colorlib.com/wp/template/kindity/
+
+pure.charity.ind@gmail.com
+nsrvkykftpuuwiek
+
+verif 		: KTP
+verifAkun 	: Email
+
+ktp    20.png 20.png
+selfie  1.jpg 1.jpg
